@@ -1,0 +1,3 @@
+<template>
+<h1>Another Template</h1>
+</template>
